@@ -14,6 +14,4 @@ Please download and extract the zip file in the ```Data``` folder.
   author={Zang, Y.，Xu, L.},
   journal={},
   year={2024}
-Zang, Y., Wang, S., Guan, H., Peng, D., Chen, J., Chen, Y., & Delavar, M. R. (2024). VAM-Net: Vegetation-Attentive deep network for Multi-modal fusion of visible-light and vegetation-sensitive images. International Journal of Applied Earth Observation and Geoinformation, 127, 103642.
-}
 ```
