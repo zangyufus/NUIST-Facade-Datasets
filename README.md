@@ -16,4 +16,4 @@ Please download and extract the zip file in the ```Data``` folder.
   year={2024}
 ```
 # Visualization
-![facade_view1.](NUIST-Facade-Datasets/image/facade_view1.png)
+![facade_view1.](/NUIST Datasets/image/facade_view1.png)
