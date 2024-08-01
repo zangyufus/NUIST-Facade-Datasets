@@ -19,5 +19,3 @@ Please download and extract the zip file in the ```Data``` folder.
 <img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view1.png" width="410px">
 <img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view2.png" width="410px">
 
-![facade_view1.](https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view1.png)
-![facade_view2.](https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view2.png)
