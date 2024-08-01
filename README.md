@@ -16,4 +16,4 @@ Please download and extract the zip file in the ```Data``` folder.
   year={2024}
 ```
 # Visualization
-![facade_view1.]([/NUIST Datasets/image/facade_view1.png](https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view1.png))
+![facade_view1.](https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view1.png)
