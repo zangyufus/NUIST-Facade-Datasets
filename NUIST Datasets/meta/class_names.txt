@@ -1,4 +1,0 @@
-windows
-wall
-balcony
-door
