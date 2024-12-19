@@ -16,25 +16,10 @@ If you find this work useful for your research, please cite our paper:
   author={Zang, Y., Xu, L., Cui, Z., Xiao, X., Guan, H., Chen, J., Dong, Z., Yang, B., Li, D.},
   journal={},
   year={2024}
+Zang, Y., Wang, S., Guan, H., Peng, D., Chen, J., Chen, Y., & Delavar, M. R. (2024). VAM-Net: Vegetation-Attentive deep network for Multi-modal fusion of visible-light and vegetation-sensitive images. International Journal of Applied Earth Observation and Geoinformation, 127, 103642.
+Zang, Y., Mi, W., Xiao, X., Guan, H., Chen, J., & Li, D. (2024). Compound 3D building modeling with structure-aware partition and primitive assembly from airborne laser scanning point clouds. International Journal of Digital Earth, 17(1), 2375112.
 }
 ```
-```
-@article{zangyufus,
-  title={VAM-Net: Vegetation-Attentive deep network for Multi-modal fusion of visible-light and vegetation-sensitive images},
-  author={Zang, Y., Wang, S., Guan, H., Peng, D., Chen, J., Chen, Y., Delavar, M. R.},
-  journal={International Journal of Applied Earth Observation and Geoinformation},
-  year={2024}
-}
-```
-```
-@article{zangyufus,
-  title={Compound 3D building modeling with structure-aware partition and primitive assembly from airborne laser scanning point clouds},
-  author={Zang, Y., Mi, W., Xiao, X., Guan, H., Chen, J., Li, D.},
-  journal={International Journal of Digital Earth},
-  year={2024}
-}
-```
-
 # Visualization
 <img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view1.png" width="410px"> 
 <img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view2.png" width="410px">
