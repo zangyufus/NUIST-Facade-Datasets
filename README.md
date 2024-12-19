@@ -20,6 +20,9 @@ Zang, Y., Wang, S., Guan, H., Peng, D., Chen, J., Chen, Y., & Delavar, M. R. (20
 Zang, Y., Mi, W., Xiao, X., Guan, H., Chen, J., & Li, D. (2024). Compound 3D building modeling with structure-aware partition and primitive assembly from airborne laser scanning point clouds. International Journal of Digital Earth, 17(1), 2375112.
 }
 ```
+# Test procedure record
+                                                                                                                                 
+
 # Visualization
 <img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view1.png" width="410px"> 
 <img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view2.png" width="410px">
