@@ -21,7 +21,7 @@ Zang, Y., Mi, W., Xiao, X., Guan, H., Chen, J., & Li, D. (2024). Compound 3D bui
 }
 ```
 # Test procedure record
-                                                                                                                                 
+<src="https://github.com/zangyufus/FTG-Net/blob/main/20241219_205929.mp4" width="410px">                                                                                                                           
 
 # Visualization
 <img src="https://github.com/zangyufus/NUIST-Facade-Datasets/blob/main/NUIST%20Datasets/image/facade_view1.png" width="410px"> 
